@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	font-family: arial;
+	background-color: #FECC66
+}
+
+#logo {
+height: 200px;
+width: 200px
+}
+
+#container{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+
+
